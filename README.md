@@ -23,7 +23,7 @@
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/YourUsername/VLC-Discord-Presence.git
+    git clone https://github.com/Gh0styTongue/VLC-Discord-Presence.git
     ```
 
 2. Navigate to the project folder:
