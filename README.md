@@ -2,6 +2,8 @@
 
 **VLC-Discord-Presence** is a Python-based application that integrates VLC Media Player with Discord's rich presence feature. It shows your current VLC media status (whether you're playing, paused, or stopped), including the media's title, progress, and time left on the track. It also works in the background, even when the command prompt is minimized.
 
+Add this to your discord profile: https://discord.com/oauth2/authorize?client_id=1347834940380676156&response_type=code&redirect_uri=https%3A%2F%2Fvideolan.org%2Fvlc%2F&scope=presences.write
+
 ## Features
 
 - Displays the current media title, progress, and time left.
