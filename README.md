@@ -1,3 +1,5 @@
+# ⚠️ This repository should be considered abandoned. ⚠️
+
 # VLC-Discord-Presence
 
 **VLC-Discord-Presence** is a Python-based application that integrates VLC Media Player with Discord's rich presence feature. It shows your current VLC media status (whether you're playing, paused, or stopped), including the media's title, progress, and time left on the track. It also works in the background, even when the command prompt is minimized.
