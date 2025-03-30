@@ -1,4 +1,4 @@
-# ⚠️ This repository should be considered abandoned. ⚠️
+# ⚠️ This repository should be considered abandoned.
 
 # VLC-Discord-Presence
 
